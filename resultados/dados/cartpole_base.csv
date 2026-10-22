@@ -1,0 +1,201 @@
+politica,episodio,retorno,passos,causa_termino
+aleatória,0,18.0,18,ângulo do poste
+aleatória,1,16.0,16,ângulo do poste
+aleatória,2,11.0,11,ângulo do poste
+aleatória,3,14.0,14,ângulo do poste
+aleatória,4,11.0,11,ângulo do poste
+aleatória,5,15.0,15,ângulo do poste
+aleatória,6,24.0,24,ângulo do poste
+aleatória,7,26.0,26,ângulo do poste
+aleatória,8,58.0,58,ângulo do poste
+aleatória,9,22.0,22,ângulo do poste
+aleatória,10,14.0,14,ângulo do poste
+aleatória,11,20.0,20,ângulo do poste
+aleatória,12,10.0,10,ângulo do poste
+aleatória,13,12.0,12,ângulo do poste
+aleatória,14,17.0,17,ângulo do poste
+aleatória,15,17.0,17,ângulo do poste
+aleatória,16,72.0,72,ângulo do poste
+aleatória,17,11.0,11,ângulo do poste
+aleatória,18,14.0,14,ângulo do poste
+aleatória,19,19.0,19,ângulo do poste
+aleatória,20,24.0,24,ângulo do poste
+aleatória,21,13.0,13,ângulo do poste
+aleatória,22,12.0,12,ângulo do poste
+aleatória,23,32.0,32,ângulo do poste
+aleatória,24,47.0,47,ângulo do poste
+aleatória,25,31.0,31,ângulo do poste
+aleatória,26,11.0,11,ângulo do poste
+aleatória,27,18.0,18,ângulo do poste
+aleatória,28,17.0,17,ângulo do poste
+aleatória,29,25.0,25,ângulo do poste
+aleatória,30,24.0,24,ângulo do poste
+aleatória,31,20.0,20,ângulo do poste
+aleatória,32,14.0,14,ângulo do poste
+aleatória,33,12.0,12,ângulo do poste
+aleatória,34,26.0,26,ângulo do poste
+aleatória,35,21.0,21,ângulo do poste
+aleatória,36,21.0,21,ângulo do poste
+aleatória,37,18.0,18,ângulo do poste
+aleatória,38,20.0,20,ângulo do poste
+aleatória,39,20.0,20,ângulo do poste
+aleatória,40,34.0,34,ângulo do poste
+aleatória,41,25.0,25,ângulo do poste
+aleatória,42,41.0,41,ângulo do poste
+aleatória,43,17.0,17,ângulo do poste
+aleatória,44,12.0,12,ângulo do poste
+aleatória,45,32.0,32,ângulo do poste
+aleatória,46,29.0,29,ângulo do poste
+aleatória,47,36.0,36,ângulo do poste
+aleatória,48,11.0,11,ângulo do poste
+aleatória,49,26.0,26,ângulo do poste
+aleatória,50,19.0,19,ângulo do poste
+aleatória,51,18.0,18,ângulo do poste
+aleatória,52,14.0,14,ângulo do poste
+aleatória,53,13.0,13,ângulo do poste
+aleatória,54,24.0,24,ângulo do poste
+aleatória,55,15.0,15,ângulo do poste
+aleatória,56,68.0,68,ângulo do poste
+aleatória,57,27.0,27,ângulo do poste
+aleatória,58,29.0,29,ângulo do poste
+aleatória,59,18.0,18,ângulo do poste
+aleatória,60,34.0,34,ângulo do poste
+aleatória,61,14.0,14,ângulo do poste
+aleatória,62,30.0,30,ângulo do poste
+aleatória,63,15.0,15,ângulo do poste
+aleatória,64,13.0,13,ângulo do poste
+aleatória,65,33.0,33,ângulo do poste
+aleatória,66,25.0,25,ângulo do poste
+aleatória,67,29.0,29,ângulo do poste
+aleatória,68,15.0,15,ângulo do poste
+aleatória,69,12.0,12,ângulo do poste
+aleatória,70,12.0,12,ângulo do poste
+aleatória,71,17.0,17,ângulo do poste
+aleatória,72,18.0,18,ângulo do poste
+aleatória,73,18.0,18,ângulo do poste
+aleatória,74,13.0,13,ângulo do poste
+aleatória,75,12.0,12,ângulo do poste
+aleatória,76,10.0,10,ângulo do poste
+aleatória,77,23.0,23,ângulo do poste
+aleatória,78,12.0,12,ângulo do poste
+aleatória,79,36.0,36,ângulo do poste
+aleatória,80,20.0,20,ângulo do poste
+aleatória,81,10.0,10,ângulo do poste
+aleatória,82,30.0,30,ângulo do poste
+aleatória,83,19.0,19,ângulo do poste
+aleatória,84,14.0,14,ângulo do poste
+aleatória,85,10.0,10,ângulo do poste
+aleatória,86,18.0,18,ângulo do poste
+aleatória,87,26.0,26,ângulo do poste
+aleatória,88,16.0,16,ângulo do poste
+aleatória,89,40.0,40,ângulo do poste
+aleatória,90,33.0,33,ângulo do poste
+aleatória,91,18.0,18,ângulo do poste
+aleatória,92,16.0,16,ângulo do poste
+aleatória,93,10.0,10,ângulo do poste
+aleatória,94,18.0,18,ângulo do poste
+aleatória,95,17.0,17,ângulo do poste
+aleatória,96,13.0,13,ângulo do poste
+aleatória,97,44.0,44,ângulo do poste
+aleatória,98,11.0,11,ângulo do poste
+aleatória,99,32.0,32,ângulo do poste
+heurística (empurrar para o lado em que o poste cai),0,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),1,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),2,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),3,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),4,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),5,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),6,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),7,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),8,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),9,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),10,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),11,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),12,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),13,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),14,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),15,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),16,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),17,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),18,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),19,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),20,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),21,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),22,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),23,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),24,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),25,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),26,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),27,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),28,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),29,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),30,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),31,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),32,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),33,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),34,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),35,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),36,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),37,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),38,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),39,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),40,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),41,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),42,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),43,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),44,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),45,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),46,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),47,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),48,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),49,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),50,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),51,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),52,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),53,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),54,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),55,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),56,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),57,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),58,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),59,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),60,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),61,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),62,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),63,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),64,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),65,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),66,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),67,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),68,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),69,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),70,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),71,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),72,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),73,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),74,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),75,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),76,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),77,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),78,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),79,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),80,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),81,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),82,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),83,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),84,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),85,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),86,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),87,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),88,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),89,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),90,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),91,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),92,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),93,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),94,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),95,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),96,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),97,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),98,500.0,500,limite de passos
+heurística (empurrar para o lado em que o poste cai),99,500.0,500,limite de passos

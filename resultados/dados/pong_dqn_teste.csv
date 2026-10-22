@@ -1,0 +1,9 @@
+algoritmo,semente,passo,retorno_teste
+dqn,0,25000,-21.0
+dqn,0,50000,-21.0
+dqn,0,75000,-21.0
+dqn,0,100000,-21.0
+ddqn,0,25000,-21.0
+ddqn,0,50000,-21.0
+ddqn,0,75000,-21.0
+ddqn,0,100000,-21.0
